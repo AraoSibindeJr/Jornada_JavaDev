@@ -1,6 +1,9 @@
 # Documentação de Aprendizado em Java
 
-Este repositório contém a documentação do meu aprendizado da linguagem Java, desde o nível iniciante até o avançado. Estou seguindo o curso "Maratona Java" do canal **Dojo do Jiraya**, voltado para o Java, e aqui irei registrar os conceitos aprendidos, exemplos de código e exercícios.
+Este repositório contém a documentação do meu aprendizado da linguagem 
+Java, desde o nível iniciante até o avançado. Estou seguindo o curso "Maratona Java" do 
+canal **DevDojo**
+e aqui irei registrar os conceitos aprendidos, exemplos de código e exercícios.
 
 ## Estrutura do Repositório
 
