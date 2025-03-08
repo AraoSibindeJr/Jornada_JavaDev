@@ -11,24 +11,24 @@ public class Aula08EstruturasDeRepeticao01 {
         *  - for: tem var de controle
         * */
 
-        /*EXEMPLO: Elabore um programa que conta de 1 ate 10*/
+        /*EXEMPLO: Elabore um programa que conta de 1 ate 5*/
         // Usando a estrutura WHILE:
         int n = 0;
-        while(n<5){
-            System.out.println(n);
+        while(n<=5){
+            System.out.println("USANDO WHILE: " + n);
             n++; //Incremento da var
         }
 
         // Usando a estrutura DO-WHILE:
         int n1 = 0;
         do{
-            System.out.println(n);
-            n++;
-        }while(n<5);
+            System.out.println("USANDO DO-WHILE: "+ n1);
+            n1++;
+        }while(n1<=5);
 
         // Usando a estrutura FOR:
-        for(int i = 0; i < 5; i++){
-            System.out.println(n);
+        for(int i = 0; i <= 5; i++){
+            System.out.println("USANDO FOR: " + i);
         }
     }
 }
