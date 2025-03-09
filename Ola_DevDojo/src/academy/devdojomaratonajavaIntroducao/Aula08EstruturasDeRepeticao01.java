@@ -30,5 +30,20 @@ public class Aula08EstruturasDeRepeticao01 {
         for(int i = 0; i <= 5; i++){
             System.out.println("USANDO FOR: " + i);
         }
+        //BREAK: Comando que sai da estrutura de repeticao (For-loop)
+        /*
+        * for (int i = 0; i<10; i++){
+        *   System.out.printl(i);
+        *   if(i < 5){
+        *       break; Vai sair da estrutura de repeticao
+        *   }
+        * }*/
+        //CONTINUE: Comando que ignora todos codigos abaixo dele e repete o for-loop.
+        /*for (int i = 0; i<10; i++){
+         *   System.out.printl(i);
+         *      if(i <5){
+         *          continue;
+         *      }
+         * }*/
     }
 }
