@@ -1,4 +1,4 @@
-package academy.devdojomaratonajavaIntroducao;
+package academy.devdojomaratonajava.introducao;
 /*     EXERCICIO
 *   Crie variaveis para os campos descritos abaixo entre <> e imprima a seguinte mensagem.
 * Eu, <nome>, morando no endereco <endereco>, confirmo que recebi o salario de <salario>, na

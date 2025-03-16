@@ -1,4 +1,4 @@
-package academy.devdojomaratonajavaIntroducao;
+package academy.devdojomaratonajava.introducao;
 
 public class Aula10ArraysUnidimensionais01 {
     public static void main(String[] args) {

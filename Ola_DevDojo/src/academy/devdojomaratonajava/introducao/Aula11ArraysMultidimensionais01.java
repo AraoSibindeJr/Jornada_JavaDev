@@ -1,4 +1,4 @@
-package academy.devdojomaratonajavaIntroducao;
+package academy.devdojomaratonajava.introducao;
 
 public class Aula11ArraysMultidimensionais01 {
     // Arays Multidimensionais: Sao arrays com mais de dois indices.
