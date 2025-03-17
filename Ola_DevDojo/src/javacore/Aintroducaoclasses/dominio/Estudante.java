@@ -1,4 +1,4 @@
-package javacore.introducaoclasses.dominio;
+package javacore.Aintroducaoclasses.dominio;
 
 public class Estudante {
     // Introducao a POO Programacao Orientada a Objecto
