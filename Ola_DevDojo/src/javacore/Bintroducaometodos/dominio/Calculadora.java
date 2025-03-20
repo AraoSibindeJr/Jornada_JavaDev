@@ -18,4 +18,16 @@ public class Calculadora {
         System.out.println(n2 - n1 );
 
     }
+
+    /*
+        Parametros: Variaveis que sao usadas em um metodo
+        Argumentos: Valores que estarao dentro dos parametros
+        int num = 7;
+        num => Parametro
+        7 => Argumento
+     */
+
+    public void multiplicarNumeros(int num1, int num2){
+        System.out.println(num1 * num2);
+    }
 }
