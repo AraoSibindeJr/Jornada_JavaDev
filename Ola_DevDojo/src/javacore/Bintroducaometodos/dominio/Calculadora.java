@@ -26,8 +26,19 @@ public class Calculadora {
         num => Parametro
         7 => Argumento
      */
-
     public void multiplicarNumeros(int num1, int num2){
         System.out.println(num1 * num2);
     }
+    /*  Metodos com Return: Sao metodos que devolvem determinado dado, geralmente sao usados para devolver o rtesultado
+        de certa codificacao executada no metodo
+    */
+    public double divNumeros(int n1, int n2){
+        if(n1 == 0 || n2 == 0){
+            return 0;
+        }
+        double resultado = n1/n2;
+        return resultado;
+    }
+    //Nota que temos dois 'returns' no metodo, mas, apenas um returno sera executado.
+    //Um metodo do tipo return so retorna uma unica vez por execucao
 }
