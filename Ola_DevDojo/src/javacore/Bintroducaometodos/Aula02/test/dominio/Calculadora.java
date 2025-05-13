@@ -1,4 +1,4 @@
-package javacore.Bintroducaometodos.dominio;
+package javacore.Bintroducaometodos.Aula02.test.dominio;
 
 public class Calculadora {
     /*Metodos: Sao os comportamentos de uma classe, coisas que uma classe esta capacitada a fazer.

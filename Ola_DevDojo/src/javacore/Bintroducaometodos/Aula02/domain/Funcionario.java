@@ -1,4 +1,4 @@
-package javacore.Bintroducaometodos.Exercicios.Ex01.domain;
+package javacore.Bintroducaometodos.Aula02.domain;
 
 public class Funcionario {
     /*EXERCICIO: Criar uma classe Funcionario, com 3 atributos: nome; idade; salarios

@@ -1,6 +1,6 @@
-package javacore.Bintroducaometodos.Exercicios.Ex01.test;
+package javacore.Bintroducaometodos.Aula02.domain.test;
 
-import javacore.Bintroducaometodos.Exercicios.Ex01.domain.Funcionario;
+import javacore.Bintroducaometodos.Aula02.domain.Funcionario;
 
 public class Teste {
     public static void main(String[] args) {
