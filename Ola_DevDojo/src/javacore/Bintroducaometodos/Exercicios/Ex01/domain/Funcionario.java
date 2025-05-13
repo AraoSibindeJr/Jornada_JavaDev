@@ -6,35 +6,22 @@ public class Funcionario {
     * => Metodo Imprimir
     * => Metodo para calcular media dos salarios*/
 
-    // Criacao dos Atributos
+
+    // Instanciar os atributos
     private String nome;
     private int idade;
-    private double [] salario;
+    private double salario;
 
-    // Criacao de setters e getters:
-    public String setNome(){
-        return nome;
-    }
-    public int setIdade(){
-        return idade;
-    }
-    public void getNome(String nome){
+    // Criar construtor
+    public Funcionario(String nome, int idade, double salario){
         this.nome = nome;
-    }
-    public void getIdade(int idade){
         this.idade = idade;
+        this.salario = salario;
     }
 
-    // Criacao dos metodos da questao
-    public void imprimir(){}
-    public void mediaSalarios(double[] salario){
-        double v = 2500;
-        for (int i = 0; i < salario.length; i++){
-            salario[i] = v + 50;
-            v -= 100;
-        }
-        double media;
+    // Metodo imprimir
+    public String toString(){
+        return "Nome: " + nome + " Idade: " + idade + " Salario: " + salario;
     }
-
 
 }
